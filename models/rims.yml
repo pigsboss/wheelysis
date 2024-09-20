@@ -1,15 +1,20 @@
+# Properties:
+#   erd: effective rim diameter, in mm
+#   id:  internal width, in mm
+#   od:  external width, in mm
+#   h:   height, in mm
+#   osb: offset spoke bed, in mm
+
 kinlin-xc279:
   brand: KINLIN
   name: XC-279
   size: 700C
-  # effective rim diameter, erd, in mm
   erd: 582.5
   id: 17.0
   od: 22.4
   h: 28.0
   weight: 490.0
   material: KLM41
-  # offset spoke bed, osb, in mm
   osb: 0.0
 
 kinlin-xc279r:
