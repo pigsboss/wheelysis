@@ -1,5 +1,7 @@
-[novatec-d411sb]
-brand = novatec
-name = d411sb
-old = 100.0
-pcd = 37.0
+novatec-d411sb:
+  brand: novatec
+  name: d411sb
+  # Over Lock-nut Distance, old, in mm
+  old: 100.0
+  # pitch circle diameter, pcd, in mm
+  pcd: 37.0
