@@ -2,12 +2,14 @@ kinlin-xc279:
   brand: KINLIN
   name: XC-279
   size: 700C
+  # effective rim diameter, erd, in mm
   erd: 582.5
   id: 17.0
   od: 22.4
   h: 28.0
   weight: 490.0
   material: KLM41
+  # offset spoke bed, osb, in mm
   osb: 0.0
 
 kinlin-xc279r:
@@ -31,5 +33,5 @@ jalco-csr450:
   od: 22.8
   h: 30.0
   weight: 475.0
-  material: 6066
+  material: "6066"
   osb: 0.0
